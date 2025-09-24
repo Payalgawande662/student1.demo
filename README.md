@@ -1,2 +1,3 @@
-# student1.demo
+# student1-demo
 this is my first repository
+Author-payal gawande
